@@ -1,0 +1,25 @@
+{
+  "name": "fizz-buzz-lab",
+  "version": "1.0.0",
+  "description": "fizz-buzz-lab",
+  "main": "app/fizzbuzz.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecj4real/fizz-buzz-lab.git"
+  },
+  "author": "Emegbue Chukwudi John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://https://github.com/ecj4real/fizz-buzz-lab/issues"
+  },
+  "homepage": "https://github.com/ecj4real/fizz-buzz-lab#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
